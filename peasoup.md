@@ -5,3 +5,5 @@
 # Instructions
 - Add peasoup to pan
 - add cold water and soak
+- add boiling water
+
