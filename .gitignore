@@ -1,2 +1,4 @@
 *.png
-receipts/
+receipts/data/market_position/gps/*.dat
+!final.png
+!receipts/data/
